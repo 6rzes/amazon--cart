@@ -5,7 +5,7 @@ Feature: Shopping Cart
         When User opens details of 5 product
         When Full product name is available
         When Price is available
-        When Qty of 1 is selected
+        When Qty of 8 is selected
         When User adds order to shopping cart
         When User reject further offers
         When User goes to shopping cart
